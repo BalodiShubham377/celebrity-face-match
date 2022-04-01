@@ -1,0 +1,10 @@
+mtcnn==0.1.0
+tensorflow
+keras
+keras-vggface==0.6
+keras_applications
+PyYAML
+tqdm
+scikit-learn
+streamlit
+bing-image-downloader
