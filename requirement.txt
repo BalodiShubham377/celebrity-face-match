@@ -1,7 +1,7 @@
-mtcnn==0.1.0
+mtcnn
 tensorflow
 keras
-keras-vggface==0.6
+keras-vggface
 keras_applications
 PyYAML
 tqdm
