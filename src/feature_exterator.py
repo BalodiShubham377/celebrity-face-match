@@ -3,11 +3,9 @@ from src.utils.all_utils import read_yaml, create_directory
 import argparse
 import os
 import logging
-import tensorflow as tf
-
 from tensorflow.keras.preprocessing import image
-from keras_vggface.utils import preprocess_input
-from keras_vggface.vggface import VGGFace
+from tensorflow.python.keras_vggface.utils import preprocess_input
+from keras_vggface.python.vggface import VGGFace
 import numpy as np
 import pickle
 from tqdm import tqdm
